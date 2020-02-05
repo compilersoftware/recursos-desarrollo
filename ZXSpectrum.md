@@ -1,5 +1,17 @@
 # Sinclair ZX Spectrum
 
+## Emuladores
+
+### Retro Virtual Machine (Windows, macOS, Linux)
+
+https://www.retrovirtualmachine.org/
+
+## Enlaces
+
+### Recursos de programación para ZX Spectrum 
+
+https://wiki.speccy.org/programacion/recursos_prog/indice
+
 ## Entornos de desarrollo - librerías
 
 ### FASE
@@ -30,8 +42,6 @@ z88dk is a z80 C cross compiler supplied with an assembler/linker and a set of l
 
 ## Tutoriales
 
-* [Curso de Ensamblador Z80 de Compiler Software](https://wiki.speccy.org/cursos/ensamblador/indice)
+### Curso de Ensamblador Z80 de Compiler Software 
 
-## Enlaces
-
-* [Recursos de programación para ZX Spectrum](https://wiki.speccy.org/programacion/recursos_prog/indice).
+https://wiki.speccy.org/cursos/ensamblador/indice

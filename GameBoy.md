@@ -8,7 +8,7 @@ https://www.gbdkjs.com/
 
 A library for creating GameBoy games. Write once in C, build, debug and deploy for GameBoy and the web.
 
-### GB Studio
+### GB Studio (Windows, macOS, Linux)
 
 https://www.gbstudio.dev/
 
@@ -22,4 +22,8 @@ A little engine for creating games for the original GameBoy
 
 ## Enlaces
 
-* [Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev).
+### Awesome Game Boy Development
+
+https://gbdev.github.io/list
+
+A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs
