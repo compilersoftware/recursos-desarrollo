@@ -10,7 +10,9 @@ Recopilación de enlaces &mdash;en constante actualización&mdash; a recursos de
 * [Nintendo Game Boy](GameBoy.md)
 * [Nintendo Game Boy Advance](GameBoyAdvance.md).  
 * [PC](PC.md)  
+* [Sega Mega Drive](MegaDrive.md)
 * [Sinclair ZX Spectrum](ZXSpectrum.md).
+* [Sony PlayStation](PlayStation.md)
 
 ## Herramientas genéricas
 

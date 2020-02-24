@@ -18,6 +18,18 @@ A handy Commodore 8-bit program development utility for Windows
 
 https://www.facebook.com/c64List
 
+### CharPad 2.6 (Free Edition) (Windows)
+
+https://subchristsoftware.itch.io/charpad-free-edition
+
+CharPad is a graphics data editing tool that facilitates the production of graphics data in a format compatible with the legendary Commodore 64 home computer.
+
+### Petmate - C64 PETSCII editor (Windows, macOS, Linux)
+
+https://nurpax.github.io/petmate/
+
+Petmate is a cross-platform C64 PETSCII image editor, drawing inspiration from the PETSCII editor.
+
 ## Tutoriales
 
 ### Programación Retro del Commodore 64
