@@ -40,6 +40,14 @@ https://www.z88dk.org/
 
 z88dk is a z80 C cross compiler supplied with an assembler/linker and a set of libraries implementing the C standard library for a number of different z80 based machines. The name z88dk originates from the time when the project was founded and targetted only the Cambridge z88 portable.
 
+## Herramientas
+
+### Pasmo
+
+http://pasmo.speccy.org/
+
+Pasmo es un ensamblador cruzado para Z80, escrito en C++ estándar que compila con facilidad en múltiples plataformas. Actualmente genera código obejto en los siguientes formatos: binario crudo, Intel HEX, PRL para RSX de CP/M Plus, Plus3Dos (Spectrum +3 disco), TAP, TZX y CDT (imagen de cinta para emuladores de Spectrum y Amstrad CPC), AmsDos (Amstrad CPC disco) y MSX (para uso con BLOAD desde disco en Basic).
+
 ## Tutoriales
 
 ### Curso de Ensamblador Z80 de Compiler Software 
