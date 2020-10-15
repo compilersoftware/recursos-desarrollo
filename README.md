@@ -14,9 +14,11 @@ Recopilación de enlaces &mdash;en constante actualización&mdash; a recursos de
 * [Sega Master System](MasterSystem.md).
 * [Sega Mega Drive](MegaDrive.md).
 * [Sinclair ZX Spectrum](ZXSpectrum.md).
+* [SNES](SNES.md).
 * [Sony PlayStation](PlayStation.md).
 
 ## Herramientas genéricas
 
+* [Desarrollo](Desarrollo.md).
 * [Gráficos](Graficos.md).
 * [Sonido](Sonido.md).

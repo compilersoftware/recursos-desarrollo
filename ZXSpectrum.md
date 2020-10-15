@@ -48,6 +48,14 @@ http://pasmo.speccy.org/
 
 Pasmo es un ensamblador cruzado para Z80, escrito en C++ estándar que compila con facilidad en múltiples plataformas. Actualmente genera código obejto en los siguientes formatos: binario crudo, Intel HEX, PRL para RSX de CP/M Plus, Plus3Dos (Spectrum +3 disco), TAP, TZX y CDT (imagen de cinta para emuladores de Spectrum y Amstrad CPC), AmsDos (Amstrad CPC disco) y MSX (para uso con BLOAD desde disco en Basic).
 
+### Toolchain
+
+https://github.com/jarikomppa/speccy
+
+Here's a bunch of stuff I've cobbled together to make a zx spectrum toolchain. It's (still) (well, probably forever) a work in progress, but someone may find it useful.
+
+Note that I'm doing this on windows, but what I've got together here may be helpful for figuring these things out on other platforms too.
+
 ## Tutoriales
 
 ### Curso de Ensamblador Z80 de Compiler Software 
