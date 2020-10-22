@@ -22,3 +22,7 @@ Recopilación de enlaces &mdash;en constante actualización&mdash; a recursos de
 * [Desarrollo](Desarrollo.md).
 * [Gráficos](Graficos.md).
 * [Sonido](Sonido.md).
+
+## Otros enlaces
+
+* [Trabajos fin de grado](TFG.md).
