@@ -25,3 +25,11 @@ https://github.com/jjaranda13/8BP
 ### AUA - Crea tus Juegos con 8BP
 
 https://auamstrad.es/cursos-tutoriales/8bitsdepoder/
+
+## Herramientas
+
+### img2cpc
+
+https://github.com/AugustoRuiz/Img2CPC
+
+Tool to convert images in a lot of formats to data that can be used in Amstrad CPC software.

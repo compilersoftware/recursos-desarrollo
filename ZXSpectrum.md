@@ -62,6 +62,18 @@ https://github.com/Utodev/utoboot
 
 Un sistema de arranque de propósito general para que juegos o utilidades puedan ser distribuidos en una tarjeta SD para ESXDOS+DivMMC/IDE (ZX Spectrum)
 
+### ZX-Tools
+
+https://zx.remysharp.com/sprites/
+
+Remy's Sprite, Tile and Palette editor for the ZX Spectrum Next.
+
+## img2zx
+
+https://github.com/AugustoRuiz/img2zx
+
+Simple script to convert raster images (bmp, png, gif...) into assembly files for ZX Spectrum tilesets.
+
 ## Tutoriales
 
 ### Curso de Ensamblador Z80 de Compiler Software 
