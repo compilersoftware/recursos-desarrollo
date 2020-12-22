@@ -26,6 +26,10 @@ https://github.com/jjaranda13/8BP
 
 https://auamstrad.es/cursos-tutoriales/8bitsdepoder/
 
+### CPCtelera + Arkos Tracker 2
+
+https://github.com/cmp102/cpctelera/tree/a2c567f8b5bc2b092d68e865c12c74dd7c502938/examples/medium/arkostracker2
+
 ## Herramientas
 
 ### img2cpc

@@ -20,6 +20,12 @@ https://github.com/Stephane-D/SGDK
 
 SGDK - A free and open development kit for the Sega Megadrive.
 
+### Genesis Code
+
+https://marketplace.visualstudio.com/items?itemName=zerasul.genesis-code
+
+Genesis-Code is a Visual Studio Code Extension for Sega Genesis/ Mega Drive development. This extension is created for use with the SGDK/GENDEV projects for create homebrew games for the Sega 16 bits console.
+
 ### MDSDRV
 
 https://github.com/superctr/MDSDRV
