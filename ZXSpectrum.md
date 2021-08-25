@@ -40,6 +40,14 @@ https://www.z88dk.org/
 
 z88dk is a z80 C cross compiler supplied with an assembler/linker and a set of libraries implementing the C standard library for a number of different z80 based machines. The name z88dk originates from the time when the project was founded and targetted only the Cambridge z88 portable.
 
+### RAGE1: Retro Adventure Game Engine, release 1
+
+https://github.com/jorgegv/rage1
+
+RAGE1 is an adventure game engine for the ZX Spectrum based on the great SP1 sprite library by Alvin Albrecht.
+
+Its initial purpose is the generation of adventure games with zenital pespective, but it will evolve to support other types of games, e.g. platforms, etc.
+
 ## Herramientas
 
 ### Pasmo

@@ -37,3 +37,11 @@ A sound driver for Sega Mega Drive/Genesis
 https://alcatstudio.blogspot.com/p/nextbasic-compiler.html (Portugués)
 
 Compilador de BASIC para Mega Drive
+
+## Herramientas
+
+### Mega Drive Mega Pack
+
+https://marketplace.visualstudio.com/items?itemName=Zerasul.mega-drive-mega-pack
+
+Mega Drive Mega Pack, is a extension Pack for Mega Drive/Genesis Development. With this extension pack, you can install some usefull extensions for Retro Development; focused in 16 Bits Games Development.

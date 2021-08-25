@@ -12,6 +12,7 @@ Recopilación de enlaces &mdash;en constante actualización&mdash; a recursos de
 * [Nintendo Game Boy Advance](GameBoyAdvance.md).  
 * [PC](PC.md).
 * [Sega Master System](MasterSystem.md).
+* [Sega Mega CD](MegaCD.md).
 * [Sega Mega Drive](MegaDrive.md).
 * [Sinclair ZX Spectrum](ZXSpectrum.md).
 * [SNES](SNES.md).
