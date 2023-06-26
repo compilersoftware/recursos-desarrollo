@@ -10,6 +10,12 @@ A collection of tools and code (with a very presumptuous name) for SEGA Master S
 
 Examples: http://steveproxna.blogspot.com/search/label/devkitSMS
 
+### PSGLib
+
+https://github.com/sverx/PSGlib
+
+Z80 ASM library (and C conversion/compression tools) to allow replay of VGMs as background music/SFX in SEGA 8 bit homebrew programs
+
 ## Emuladores
 
 ### Gearsystem
