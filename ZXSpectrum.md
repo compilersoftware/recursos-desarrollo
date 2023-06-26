@@ -76,11 +76,17 @@ https://zx.remysharp.com/sprites/
 
 Remy's Sprite, Tile and Palette editor for the ZX Spectrum Next.
 
-## img2zx
+### img2zx
 
 https://github.com/AugustoRuiz/img2zx
 
 Simple script to convert raster images (bmp, png, gif...) into assembly files for ZX Spectrum tilesets.
+
+### z88dk-dev-environment
+
+https://github.com/dgzornoza/z88dk-dev-environment
+
+z88dk Developer Container Environment for Visual Studio Code.
 
 ## Tutoriales
 
