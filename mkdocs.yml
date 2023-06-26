@@ -1,0 +1,25 @@
+copyright: Recopilado con ❤ por el equipo de Compiler Software
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/@compilersoft
+markdown_extensions:
+  - pymdownx.magiclink
+plugins:
+  - search:
+      lang: es
+repo_url: https://github.com/compilersoftware/recursos-desarrollo
+site_name: Compiler Software - Recursos de desarrollo
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro

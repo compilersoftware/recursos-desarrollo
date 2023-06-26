@@ -9,7 +9,7 @@ Recopilación de enlaces &mdash;en constante actualización&mdash; a recursos de
 * [Commodore 64](Commodore64.md).
 * [MSX](MSX.md).
 * [Nintendo Game Boy](GameBoy.md).
-* [Nintendo Game Boy Advance](GameBoyAdvance.md).  
+* [Nintendo Game Boy Advance](GameBoyAdvance.md).
 * [PC](PC.md).
 * [Sega Master System](MasterSystem.md).
 * [Sega Mega CD](MegaCD.md).
