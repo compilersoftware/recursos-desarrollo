@@ -1,5 +1,7 @@
 # Commodore Amiga
 
+![Commodore Amiga](assets/logos/commodore-amiga.png)
+
 ## Documentación
 
 ### Libros referencia desarrollo

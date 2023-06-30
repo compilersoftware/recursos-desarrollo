@@ -1,5 +1,7 @@
 # Sega Mega Drive
 
+![Sega Mega Drive](assets/logos/sega-mega-drive.png)
+
 ## Tutoriales
 
 ### Oshat Games - Tutoriales programación Mega Drive

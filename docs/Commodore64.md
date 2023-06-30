@@ -1,5 +1,7 @@
 # Commodore 64
 
+![Commodore 64](assets/logos/commodore-64.png)
+
 ## Emuladores
 
 ### VirtualC64 (macOS)

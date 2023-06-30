@@ -1,22 +1,22 @@
-# Recursos de desarrollo
+#
 
 Recopilación de enlaces &mdash;en constante actualización&mdash; a recursos de desarrollo para diversas plataformas y entornos, retro y actuales.
 
 ## Plataformas
 
 * [Amstrad CPC](AmstradCPC.md).
-* [Commodore Amiga](CommodoreAmiga.md).
 * [Commodore 64](Commodore64.md).
+* [Commodore Amiga](CommodoreAmiga.md).
 * [MSX](MSX.md).
-* [Nintendo Game Boy](GameBoy.md).
-* [Nintendo Game Boy Advance](GameBoyAdvance.md).
+* [Nintendo Game Boy](NintendoGameBoy.md).
+* [Nintendo Game Boy Advance](NintendoGameBoyAdvance.md).
 * [PC](PC.md).
-* [Sega Master System](MasterSystem.md).
-* [Sega Mega CD](MegaCD.md).
-* [Sega Mega Drive](MegaDrive.md).
-* [Sinclair ZX Spectrum](ZXSpectrum.md).
+* [Sega Master System](SegaMasterSystem.md).
+* [Sega Mega CD](SegaMegaCD.md).
+* [Sega Mega Drive](SegaMegaDrive.md).
+* [Sinclair ZX Spectrum](SinclairZXSpectrum.md).
 * [SNES](SNES.md).
-* [Sony PlayStation](PlayStation.md).
+* [Sony PlayStation](SonyPlayStation.md).
 
 ## Herramientas genéricas
 

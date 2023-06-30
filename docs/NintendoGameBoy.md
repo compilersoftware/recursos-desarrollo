@@ -1,5 +1,7 @@
 # Nintendo Game Boy
 
+![Nintendo Game Boy](assets/logos/nintendo-game-boy.png)
+
 ## Entornos de desarrollo - librerías
 
 ### GBDK 2020

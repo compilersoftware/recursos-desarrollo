@@ -1,5 +1,7 @@
 # Sinclair ZX Spectrum
 
+![Sinclair ZX Spectrum](assets/logos/sinclair-zx-spetrum.png)
+
 ## Emuladores
 
 ### Retro Virtual Machine (Windows, macOS, Linux)

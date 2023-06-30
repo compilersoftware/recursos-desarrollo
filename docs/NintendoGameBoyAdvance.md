@@ -1,5 +1,7 @@
 # Nintendo Game Boy Advance
 
+![Nintendo Game Boy Advance](assets/logos/nintendo-game-boy-advance.png)
+
 ## Emuladores
 
 ### mGBA 
@@ -30,6 +32,14 @@ https://github.com/traveling-will-gba/gbengine
 
 https://forum.gbadev.org/
 
+## Recursos
+
+### Awesome GBA Dev
+
+https://github.com/gbadev-org/awesome-gbadev
+
+A curated list of development resources for Game Boy Advance.
+
 ## Tutoriales
 
 ### Gameboy 101 Class Notes
@@ -42,6 +52,7 @@ https://dwheeler.com/gba/
 ### TONC
 
 http://www.coranac.com/tonc/text/
+
 ### Visual Studio Code setup
 
 https://github.com/JamieDStewart/GBA_VSCode_Basic 

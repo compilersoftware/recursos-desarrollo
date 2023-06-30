@@ -1,5 +1,7 @@
 # Amstrad CPC
 
+![Amstrad CPC](assets/logos/amstrad-cpc.png)
+
 ## Emuladores
 
 ### Retro Virtual Machine (Windows, macOS, Linux)

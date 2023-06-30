@@ -1,5 +1,7 @@
 # Sega Master System
 
+![Sega Master System](assets/logos/sega-master-system.png)
+
 ## Entornos de desarrollo - librerías
 
 ### devkitSMS

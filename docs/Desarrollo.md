@@ -8,11 +8,15 @@ https://github.com/TItanGuy99/Titan-IDE
 
 Entorno de desarrollo de juegos 2D para Sega Dreamcast, Nintendo Wii y PC
 
+### Online Z80 IDE
+
+https://clrhome.org/asm/
+
 ## Herramientas
 
 ### Z80 Opcodes
 
-http://z80opcodes.org/
+https://clrhome.org/table/
 
 ### ImHex
 

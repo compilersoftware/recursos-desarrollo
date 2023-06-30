@@ -1,5 +1,7 @@
 # MSX
 
+![MSX](assets/logos/msx.png)
+
 ## Emuladores
 
 ### CocoaMSX (macOS)
