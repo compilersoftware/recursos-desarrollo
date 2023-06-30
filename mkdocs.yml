@@ -10,7 +10,7 @@ plugins:
   - search:
       lang: es
 repo_url: https://github.com/compilersoftware/recursos-desarrollo
-site_name: Recursos de desarrollo
+site_name: Compiler Software - Recursos de desarrollo
 theme:
   name: material
   language: es
