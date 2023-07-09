@@ -1,4 +1,4 @@
-copyright: Recopilado con ❤ por el equipo de Compiler Software
+copyright: Recopilado con ❤ por el equipo de Compiler Soft
 extra:
   generator: false
   social:
@@ -10,7 +10,7 @@ plugins:
   - search:
       lang: es
 repo_url: https://github.com/compilersoftware/recursos-desarrollo
-site_name: Compiler Software
+site_name: Compiler Soft - Recursos de desarrollo
 theme:
   name: material
   language: es
