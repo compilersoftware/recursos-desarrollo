@@ -1,4 +1,4 @@
-# Recursos de desarrollo
+# Índice
 
 Recopilación de enlaces &mdash;en constante actualización&mdash; a recursos de desarrollo para diversas plataformas y entornos, retro y actuales.
 
