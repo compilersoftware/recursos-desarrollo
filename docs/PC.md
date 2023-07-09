@@ -18,6 +18,18 @@ Desktop/Android/BlackBerry/iOS/HTML5 Java game development framework
 
 https://unity.com/
 
+#### Unity - Buenas prácticas
+
+https://docs.unity3d.com/2019.3/Documentation/Manual/BestPracticeGuides.html
+
+Learn production-tested best practices from our Enterprise Support engineers and the Unity R&D Content team.
+
+#### Unity - Buenas prácticas sistema de físicas
+
+https://learn.unity.com/tutorial/physics-best-practices
+
+In this lesson we will be looking at some best practices for when using physics in a game and some evidence to demonstrate why they should be used.
+
 ### Unreal Engine
 
 https://www.unrealengine.com/
