@@ -21,6 +21,7 @@ Recopilación de enlaces &mdash;en constante actualización&mdash; a recursos de
 ## Herramientas genéricas
 
 * [Desarrollo](Desarrollo.md).
+* [Diseño](Diseno.md).
 * [Gráficos](Graficos.md).
 * [Sonido](Sonido.md).
 
