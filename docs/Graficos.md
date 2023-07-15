@@ -13,3 +13,11 @@ Animated sprite editor & pixel art tool
 https://www.piskelapp.com/
 
 Piskel is a free online editor for animated sprites & pixel art
+
+## Enlaces
+
+### Lospec
+
+https://lospec.com/
+
+Free online tools for people creating pixel art and other low-spec art.
