@@ -28,6 +28,14 @@ https://github.com/AugustoRuiz/WYZTracker
 
 http://bbcsfx.acropolis.org.uk/
 
+### VGLeadSheets.com
+
+https://vgleadsheets.com/
+
+Lead Sheets by Gamers, for Everybody
+
+VGLeadSheets.com provides high quality transcriptions of our favorite video game music in easily readable lead sheets. Our lead sheets are available for C, Bb, Eb, F, G, Alto, Bass, & Vocal instruments, as all instruments are created equal.
+
 ## Tutoriales
 
 ### Va-De-Re-Tracker / Como programar el chip AY-3-8912 /10
