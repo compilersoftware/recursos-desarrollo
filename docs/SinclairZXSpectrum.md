@@ -90,6 +90,18 @@ https://github.com/dgzornoza/z88dk-dev-environment
 
 z88dk Developer Container Environment for Visual Studio Code.
 
+### DeZog - The Z80 Debugger
+
+https://github.com/maziac/DeZog
+
+The objective of this project is to provide a development environment for Z80 assembler programs that offers similar features to those found in high-level programming languages, such as Eclipse, Visual Studio, or XCode.
+
+### Z80 Assembly meter in Visual Studio Code
+
+https://github.com/theNestruo/z80-asm-meter-vscode
+
+The Z80 Assembly meter extension for Visual Studio Code meters clock cycles and bytecode size from Z80 assembly source code.
+
 ## Tutoriales
 
 ### Curso de Ensamblador Z80 de Compiler Software 

@@ -2,6 +2,14 @@
 
 ## Entornos de desarrollo - librerías
 
+### BennuGD2
+
+https://github.com/SplinterGU/BennuGD2
+
+Sucesor de Fenix (que, a su vez, fue sucesor de DIV Games Studio)
+
+BennuGD2 is a game development system focused on ease of use and portability.
+
 ### Godot Engine
 
 https://godotengine.org/
