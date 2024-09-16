@@ -54,9 +54,23 @@ Its initial purpose is the generation of adventure games with zenital pespective
 
 ### Pasmo
 
-http://pasmo.speccy.org/
+https://pasmo.speccy.org/
 
-Pasmo es un ensamblador cruzado para Z80, escrito en C++ estándar que compila con facilidad en múltiples plataformas. Actualmente genera código obejto en los siguientes formatos: binario crudo, Intel HEX, PRL para RSX de CP/M Plus, Plus3Dos (Spectrum +3 disco), TAP, TZX y CDT (imagen de cinta para emuladores de Spectrum y Amstrad CPC), AmsDos (Amstrad CPC disco) y MSX (para uso con BLOAD desde disco en Basic).
+Pasmo es un ensamblador cruzado para Z80, escrito en C++ estándar que compila con facilidad en múltiples plataformas. Actualmente, genera código objeto en los siguientes formatos: binario crudo, Intel HEX, PRL para RSX de CP/M Plus, Plus3Dos (Spectrum +3 disco), TAP, TZX y CDT (imagen de cinta para emuladores de Spectrum y Amstrad CPC), AmsDos (Amstrad CPC disco) y MSX (para uso con BLOAD desde disco en Basic).
+
+### Skoolkit (Windows/macOS/Linux)
+
+https://github.com/skoolkid/skoolkit
+
+SkoolKit is a collection of utilities that can be used to disassemble a Spectrum game (or indeed any piece of Spectrum software written in machine code) into a format known as a skool file. Then, from this skool file, you can use SkoolKit to create a browsable disassembly in HTML format, or a re-assemblable disassembly in assembly language. So the skool file is - from start to finish as you develop it by organising and annotating the code - the common 'source' for both the reader-friendly HTML version of the disassembly, and the developer- and assembler-friendly version of the disassembly.
+
+### Spectrum Analyser (Windows)
+
+https://colourclash.co.uk/spectrum-analyser/
+
+Spectrum Analyser is a tool that is designed to help reverse engineer ZX Spectrum games & programs.
+
+It is a combination of an emulator, debugger & interactive disassembler. Programs are loaded and run in the emulator and their state can be inspected using the tools provided.
 
 ### Toolchain
 
