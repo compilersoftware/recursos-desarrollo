@@ -2,7 +2,7 @@
 
 ## Trackers
 
-### Arkos Tracker 2 (Windows, macOS, Linux)
+### Arkos Tracker 3 (Windows, macOS, Linux)
 
 https://www.julien-nevo.com/arkostracker/
 
@@ -21,6 +21,14 @@ A Chiptune Audio Workstation for the 21st Century
 https://www.deflemask.com/
 
 The multi-system Chiptune Tracker.
+
+### Furnace Tracker
+
+https://tildearrow.org/furnace/
+
+the biggest multi-system chiptune tracker ever made!
+
+Compatible con DefleMask, pero gratuito y de código abierto.
 
 ### Vortex Tracker II (Windows)
 
